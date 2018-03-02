@@ -2,6 +2,8 @@
 La calsse principale de l'application cette classe et la premiere page qui apparait lors de lancement de l'application
 cette classe s'appelle WifiDemo.
 ok je mets quelques modificqtion sur le projet
+i add two lines 
+hello
  */
 
 
